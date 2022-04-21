@@ -8,7 +8,7 @@ const fs = require('fs');
 // TODO: Create an array of questions for user input
 const questions = [{
     type: 'input',
-    name: 'title',
+    name: 'projectTitle',
     message: 'What is the name of your project?'
 }, {
     type: 'input',

@@ -1,39 +1,39 @@
-# undefined
+# README Generator
 
-  t2
+  a back end application to fill in information into a read me file
   
   ## Languages Used
   
   * For this project I used the following languages/frameworks:
   
-  > t3
+  > javascript, node, npm, es6
   
   ## About the project 
   
   * Why did you build this project?
   
-  > t4
+  > to practice my es6 and node skills 
   
   * What problem does it solve?
   
-  > t5
+  > the long and dragged process of writing a read me file
   
   * What challenges did you face?
   
-  > t7
+  > learning how to pull the data and the .then process. Also learning how to navigate the process
   
   * What did you learn?
   
-  > t6
+  > how to download data from npm and practice the inquirer package 
   
   
   ## URL Links 
   
   * This is the link to my GitHub repo:
-  > [Github Repo](t8)
+  > [Github Repo](blank1)
   
   * This is the link to my GitHub repo:
-  > [Github Pages](t9)
+  > [Github Pages](blank2)
   
   ## Screenshots 
   
