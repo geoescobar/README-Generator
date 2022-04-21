@@ -12,42 +12,42 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  const fileData =  `# ${projectTitle}
+  const fileData =  `# ${data.projectTitle}
 
-  ${projectOverview}
+  ${data.projectOverview}
   
   ## Languages Used
   
   * For this project I used the following languages/frameworks:
   
-  > ${languagesUsed}
+  > ${data.languagesUsed}
   
   ## About the project 
   
   * Why did you build this project?
   
-  > ${whyBuild}
+  > ${data.whyBuild}
   
   * What problem does it solve?
   
-  > ${problemSolves}
+  > ${data.problemSolves}
   
   * What challenges did you face?
   
-  > ${challenges}
+  > ${data.challenges}
   
   * What did you learn?
   
-  > ${learned}
+  > ${data.learned}
   
   
   ## URL Links 
   
   * This is the link to my GitHub repo:
-  > [Github Repo](${repo})
+  > [Github Repo](${data.repo})
   
   * This is the link to my GitHub repo:
-  > [Github Pages](${pages})
+  > [Github Pages](${data.pages})
   
   ## Screenshots 
   
@@ -59,7 +59,7 @@ function generateMarkdown(data) {
   
   
 `
-console.log(fileData);
+// console.log(fileData);
 return fileData;
 
 
