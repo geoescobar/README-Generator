@@ -15,9 +15,10 @@ const questions = [{
     name: 'projectOverview',
     message: 'Please give a brief overview of your project:'
 }, {
-    type: 'input',
+    type: 'checkbox',
     name: 'languagesUsed',
-    message: 'What languages/frameworks did you use for this project?'
+    message: 'What languages/frameworks did you use for this project?',
+    choices: ['node', 'html', 'css', 'javascript', 'npm', 'bootstrap'],
 },{
     type: 'input',
     name: 'whyBuild',
@@ -38,10 +39,18 @@ const questions = [{
     type: 'input',
     name: 'repo',
     message: 'What is your GitHub repo link?',
+},{
+    type: 'input',
+    name: 'install',
+    message: 'What are the steps to run this project? How does it work?',
 }, {
     type: 'input',
-    name: 'pages',
-    message: 'What is your GitHub pages link'
+    name: 'github',
+    message: 'What is your Github username?'
+}, {
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?',
 }];
 
 

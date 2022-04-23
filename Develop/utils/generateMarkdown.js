@@ -15,49 +15,57 @@ function generateMarkdown(data) {
   const fileData =  `# ${data.projectTitle}
 
   ${data.projectOverview}
+
+  ---
+## Table of Contents:
+
+- [Description](#whyBuild)
+- [URL Links](#repo)
+- [Installation](#install)
+- [Questions](#github)
+
+
+  ---
+  ## Description
+
+  #### Languages Used
   
-  ## Languages Used
+  ${data.languagesUsed.map(lang => `\t* ${lang}\n`).join('')}
   
-  * For this project I used the following languages/frameworks:
+  #### Why did you build this project?
   
-  > ${data.languagesUsed}
+  * ${data.whyBuild}
   
-  ## About the project 
+  #### What problem does it solve?
   
-  * Why did you build this project?
+  * ${data.problemSolves}
   
-  > ${data.whyBuild}
+  #### What challenges did you face?
   
-  * What problem does it solve?
+  * ${data.challenges}
   
-  > ${data.problemSolves}
+  #### What did you learn?
   
-  * What challenges did you face?
+  * ${data.learned}
   
-  > ${data.challenges}
-  
-  * What did you learn?
-  
-  > ${data.learned}
-  
-  
-  ## URL Links 
+  ---
+  ## Links 
   
   * This is the link to my GitHub repo:
   > [Github Repo](${data.repo})
-  
-  * This is the link to my GitHub repo:
-  > [Github Pages](${data.pages})
-  
-  ## Screenshots 
-  
-  * Repo Image 
-  
-  * Pages Image 
-  
-  * Browser Image 
-  
-  
+  ---
+
+  ## Installation
+  * ${data.install}
+
+  ---
+  ## Questions 
+
+  #### If you have questions regarding this repository? Below is my contact info:
+
+  * ${data.github}
+  * ${data.email}
+
 `
 // console.log(fileData);
 return fileData;

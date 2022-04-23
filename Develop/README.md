@@ -1,46 +1,57 @@
-# README Generator
+# read me
 
-  a back end application to fill in information into a read me file
+  to make read mes
+
+  ---
+## Table of Contents:
+
+- [Description](#whyBuild)
+- [URL Links](#repo)
+- [Installation](#install)
+- [Questions](#github)
+
+
+  ---
+  ## Description
+
+  #### Languages Used
   
-  ## Languages Used
+  	* node
+	* javascript
+	* npm
+
   
-  * For this project I used the following languages/frameworks:
+  #### Why did you build this project?
   
-  > javascript, node, npm, es6
+  * to make read me's quicker
   
-  ## About the project 
+  #### What problem does it solve?
   
-  * Why did you build this project?
+  * not making read mes from scratch
   
-  > to practice my es6 and node skills 
+  #### What challenges did you face?
   
-  * What problem does it solve?
+  * not knowing how to add the licensing badges
   
-  > the long and dragged process of writing a read me file
+  #### What did you learn?
   
-  * What challenges did you face?
+  * how to use npm and use es6 elements
   
-  > learning how to pull the data and the .then process. Also learning how to navigate the process
-  
-  * What did you learn?
-  
-  > how to download data from npm and practice the inquirer package 
-  
-  
-  ## URL Links 
+  ---
+  ## Links 
   
   * This is the link to my GitHub repo:
-  > [Github Repo](blank1)
-  
-  * This is the link to my GitHub repo:
-  > [Github Pages](blank2)
-  
-  ## Screenshots 
-  
-  * Repo Image 
-  
-  * Pages Image 
-  
-  * Browser Image 
-  
-  
+  > [Github Repo](github.com/geoescobar/readme-generator)
+  ---
+
+  ## Installation
+  * download npm i and the node index.js
+
+  ---
+  ## Questions 
+
+  #### If you have questions regarding this repository? Below is my contact info:
+
+  * github.com/geoescobar
+  * geo.escobar214@gmail.com
+
