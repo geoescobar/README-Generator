@@ -1,6 +1,6 @@
-# read me
+# Read Me Generator
 
-  to make read mes
+  Creates a read me file
 
   ---
 ## Table of Contents:
@@ -23,29 +23,29 @@
   
   #### Why did you build this project?
   
-  * to make read me's quicker
+  * To help have a professional template ready for future use. 
   
   #### What problem does it solve?
   
-  * not making read mes from scratch
+  * This solves the problem of having to make a read me from scratch.
   
   #### What challenges did you face?
   
-  * not knowing how to add the licensing badges
+  * How to navigate npm. 
   
   #### What did you learn?
   
-  * how to use npm and use es6 elements
+  * Tons of stuff regarding es6, node, and npm
   
   ---
   ## Links 
   
-  * This is the link to my GitHub repo:
-  > [Github Repo](github.com/geoescobar/readme-generator)
+  #### This is the link to my GitHub repo:
+  * [Github Repo](https://github.com/geoescobar/README-Generator)
   ---
 
   ## Installation
-  * download npm i and the node index.js
+  * you want to do npm i and then do node index.js to then get prompted with the questions
 
   ---
   ## Questions 

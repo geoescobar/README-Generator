@@ -51,8 +51,8 @@ function generateMarkdown(data) {
   ---
   ## Links 
   
-  * This is the link to my GitHub repo:
-  > [Github Repo](${data.repo})
+  #### This is the link to my GitHub repo:
+  * [Github Repo](${data.repo})
   ---
 
   ## Installation
