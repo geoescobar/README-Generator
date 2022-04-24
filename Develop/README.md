@@ -1,10 +1,18 @@
 # Read Me Generator
 
   To create professional Read Me files to my Github repos
+  ---
+  ## License
+
+  MIT License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  (https://opensource.org/licenses/MIT)
+
 
   ---
 ## Table of Contents:
 
+- [License](#license)
 - [Description](#description)
 - [Links](#links)
 - [Installation](#installation)
@@ -23,7 +31,7 @@
   
   #### Why did you build this project?
   
-  * To create a more efficient way to make read me files. 
+  * To create a more efficient way to make read me files.
   
   #### What problem does it solve?
   
@@ -42,10 +50,6 @@
   
   #### This is the link to my GitHub repo:
   * [Github Repo](https://github.com/geoescobar/README-Generator)
-
-  * [Screencastify](https://drive.google.com/file/d/1E3IK9JZZfjl8CCF3WVg4QL3yG2vNAMVp/view)
-
-   ![Code Working](readme.gif)
   ---
 
   ## Installation

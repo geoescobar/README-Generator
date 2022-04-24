@@ -15,6 +15,15 @@ const questions = [{
     name: 'projectOverview',
     message: 'Please give a brief overview of your project:'
 }, {
+    type: 'rawlist',
+    name: 'license',
+    message: 'Pick licensing badge pertaining to your project:',
+    choices: [
+        'MIT License',
+        'Apache License v2.0',
+        'IBM Public License Version 1.0'
+    ]
+}, {
     type: 'checkbox',
     name: 'languagesUsed',
     message: 'What languages/frameworks did you use for this project?',

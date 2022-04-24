@@ -45,7 +45,7 @@
 
   * [Screencastify](https://drive.google.com/file/d/1E3IK9JZZfjl8CCF3WVg4QL3yG2vNAMVp/view)
 
-   ![Code Working](readme.gif)
+   ![Code Working](./Develop/readme.gif)
   ---
 
   ## Installation
