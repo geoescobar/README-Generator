@@ -42,6 +42,8 @@
   
   #### This is the link to my GitHub repo:
   * [Github Repo](https://github.com/geoescobar/README-Generator)
+
+   ![Code Working](readme.gif)
   ---
 
   ## Installation
