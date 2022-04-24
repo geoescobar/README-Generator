@@ -19,10 +19,10 @@ function generateMarkdown(data) {
   ---
 ## Table of Contents:
 
-- [Description](#whyBuild)
-- [URL Links](#repo)
-- [Installation](#install)
-- [Questions](#github)
+- [Description](#description)
+- [Links](#links)
+- [Installation](#installation)
+- [Questions](#questions)
 
 
   ---

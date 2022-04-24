@@ -1,14 +1,14 @@
 # Read Me Generator
 
-  Creates a read me file
+  To create professional Read Me files to my Github repos
 
   ---
 ## Table of Contents:
 
-- [Description](#whyBuild)
-- [URL Links](#repo)
-- [Installation](#install)
-- [Questions](#github)
+- [Description](#description)
+- [Links](#links)
+- [Installation](#installation)
+- [Questions](#questions)
 
 
   ---
@@ -23,19 +23,19 @@
   
   #### Why did you build this project?
   
-  * To help have a professional template ready for future use. 
+  * To create a more efficient way to make read me files. 
   
   #### What problem does it solve?
   
-  * This solves the problem of having to make a read me from scratch.
+  * Solves the need to build read me files from scratch.
   
   #### What challenges did you face?
   
-  * How to navigate npm. 
+  * How to actually download the inquirer package and few minor details on the read me format
   
   #### What did you learn?
   
-  * Tons of stuff regarding es6, node, and npm
+  * How to use NPMJS and implement it onto  my own projecs
   
   ---
   ## Links 
@@ -45,7 +45,7 @@
   ---
 
   ## Installation
-  * you want to do npm i and then do node index.js to then get prompted with the questions
+  * Download npm i then run node index.js which will prompt the questions
 
   ---
   ## Questions 
